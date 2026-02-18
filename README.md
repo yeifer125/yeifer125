@@ -55,3 +55,23 @@ Exploro la intersección entre:
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge)
 
+
+
+
+
+
+
+
+
+
+
+
+
+# 🖥️ cArbonAto.exe
+
+```diff
++ INITIALIZING SYSTEM...
++ USER: cArbonAto
++ MODE: ACTIVIST_HACKER
++ STATUS: ONLINE
+
