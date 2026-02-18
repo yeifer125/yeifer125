@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @yeifer125
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🔧 Skills
+Lenguajes de Programación
+Python Bash PowerShell
 
-<!---
-yeifer125/yeifer125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Sistemas Operativos
+Linux Kali Linux Windows
+
+Hacking Tools
+Metasploit Nmap Wireshark Burp Suite OWASP ZAP Aircrack-ng Mimikatz Responder SQLmap XSSer NoSQLMap Snort OpenVAS Nessus John the Ripper Hydra Hashcat BloodHound
