@@ -20,3 +20,8 @@
 ---
 
 ¡Gracias por visitar mi perfil! 🚀
+
+
+
+![420](https://img.shields.io/badge/420-Green-1DB954?style=for-the-badge)
+
