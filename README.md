@@ -1,3 +1,25 @@
+# 🌱💻 Activist Hacker
+
+<img src="https://img.shields.io/badge/Hacker-Ethical-00FF00?style=for-the-badge">
+<img src="https://img.shields.io/badge/Tech-For%20Change-0A0A0A?style=for-the-badge">
+<img src="https://img.shields.io/badge/Open%20Knowledge-Freedom-1DB954?style=for-the-badge">
+
+---
+
+## 🌿 About
+
+Tecnología como herramienta de conciencia.  
+Datos antes que dogma.  
+Código como forma de resistencia intelectual.
+
+Exploro la intersección entre:
+- 🔐 Ciberseguridad
+- 🧬 Ciencia y biotecnología
+- 🌎 Libertad digital
+- 📊 Información basada en evidencia
+
+---
+
 ## 🔧 Skills
 
 ### Lenguajes
@@ -5,9 +27,9 @@
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-### Sistemas Operativos
+### Sistemas
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-557C94?style=for-the-badge)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
@@ -19,9 +41,4 @@
 
 ---
 
-¡Gracias por visitar mi perfil! 🚀
-
-
-
-![420](https://img.shields.io/badge/420-Green-1DB954?style=for-the-badge)
-
+> “Hack the system. Upgrade the mind.”
