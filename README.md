@@ -1,9 +1,22 @@
-🔧 Skills
-Lenguajes de Programación
-Python Bash PowerShell
+## 🔧 Skills
 
-Sistemas Operativos
-Linux Kali Linux Windows
+### Lenguajes
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-Hacking Tools
-Metasploit Nmap Wireshark Burp Suite OWASP ZAP Aircrack-ng Mimikatz Responder SQLmap XSSer NoSQLMap Snort OpenVAS Nessus John the Ripper Hydra Hashcat BloodHound
+### Sistemas Operativos
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+## ⚙️ GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+
+---
+
+¡Gracias por visitar mi perfil! 🚀
