@@ -66,6 +66,7 @@ Exploro la intersección entre:
 > USER: cArbonAto
 > MODE: ACTIVIST_HACKER
 > STATUS: CONNECTED
+> ANONIMOUS
 
 
 
