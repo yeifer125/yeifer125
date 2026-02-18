@@ -9,13 +9,7 @@
 ![420](https://img.shields.io/badge/420-Green-1DB954?style=for-the-badge)
 
 
-# 🖥️ cArbonAto.exe
 
-```diff
-+ INITIALIZING SYSTEM...
-+ USER: cArbonAto
-+ MODE: ACTIVIST_HACKER
-+ STATUS: ONLINE
 
 
 ## 🌿 About
