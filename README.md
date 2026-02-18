@@ -5,7 +5,7 @@
 + USER: cArbonAto
 + MODE: ACTIVIST_HACKER
 + STATUS: ONLINE
-<img src="https://img.shields.io/badge/Matrix-Mode-00FF00?style=for-the-badge"> <img src="https://img.shields.io/badge/Ethical-Hacker-00FF00?style=for-the-badge"> <img src="https://img.shields.io/badge/Open-Knowledge-00FF00?style=for-the-badge"> <img src="https://img.shields.io/badge/Tech-For%20Change-00FF00?style=for-the-badge">
+
 
 
 # 🌱💻 Activist Hacker
