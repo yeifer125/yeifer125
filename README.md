@@ -1,13 +1,3 @@
-# 🖥️ cArbonAto.exe
-
-```diff
-+ INITIALIZING SYSTEM...
-+ USER: cArbonAto
-+ MODE: ACTIVIST_HACKER
-+ STATUS: ONLINE
-
-
-
 # 🌱💻 Activist Hacker
 
 <img src="https://img.shields.io/badge/Hacker-Ethical-00FF00?style=for-the-badge">
